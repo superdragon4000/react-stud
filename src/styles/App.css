@@ -23,6 +23,10 @@
   align-items: center;
 }
 
+.post__btns {
+  display: flex;
+}
+
 .post__content {
   display: flex;
   width: 100%;
